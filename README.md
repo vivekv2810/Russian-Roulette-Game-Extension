@@ -49,6 +49,10 @@ To install the Russian Roulette Game as a Chrome extension:
 - **Shoot**: Click the "Shoot" button to test your luck. If the bullet is in the chamber, the game ends with a "Bang!" message. If not, you're safe with a "Click!" message.
 - The game is purely for entertainment purposes and simulates the suspenseful atmosphere of Russian Roulette.
 
+## Result
+
+![image](https://github.com/user-attachments/assets/9f0a8647-3b60-487a-9419-2aeb025959d7)
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
