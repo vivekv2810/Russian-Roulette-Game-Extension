@@ -1,4 +1,4 @@
-# Russian Roulette Game - Chrome Extension
+# Russian Roulette Game
 
 ## Description
 
